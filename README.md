@@ -1,2 +1,2 @@
-# nba_2017_playoffs_modeling
-nba_2017_playoffs_modeling for sixers-celtics series. plus/minus, win probability models
+# nba_playoffs_plus_minus_models
+nba_playoffs_plus_minus_models for sixers-celtics 2017 playoffs series. plus-minus, adjusted plus-minus, win probability adjusted plus-minus models
